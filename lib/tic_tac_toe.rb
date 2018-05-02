@@ -41,7 +41,7 @@ def play(board)
   end
   
   if draw?(board)
-    puts "Game ends in a draw!!"
+    puts "Cat's Game!"
   end
 end
 
